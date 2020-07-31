@@ -1172,7 +1172,7 @@ section {
   }
 }
 .parthners {
-  background: url("/img/background.png");
+  background: url("img/background.png");
   background-size: cover;
   background-repeat: no-repeat;
   height: auto;
