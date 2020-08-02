@@ -997,7 +997,7 @@ section {
   margin-top: 30px;
 }
 .resent_posts .swiper-button-prev {
-  background: url("/img/next.png");
+  background: url("img/next.png");
   background-repeat: no-repeat;
   background-size: 100% 100%;
   background-position: center;
@@ -1007,7 +1007,7 @@ section {
   transition: 0.4s;
 }
 .resent_posts .swiper-button-next {
-  background: url("/img/next.png");
+  background: url("img/next.png");
   background-repeat: no-repeat;
   background-size: 100% 100%;
   background-position: center;
