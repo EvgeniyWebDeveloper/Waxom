@@ -694,14 +694,14 @@ section {
   position: static;
 }
 .portfolio .swiper-button-prev {
-  background: url("/img/next_arrow.png");
+  background: url("img/next_arrow.png");
   background-size: 100% 100%;
   background-repeat: no-repeat;
   background-position: center;
   transform: rotate(180deg);
 }
 .portfolio .swiper-button-next {
-  background: url("/img/next_arrow.png");
+  background: url("img/next_arrow.png");
   background-size: 100% 100%;
   background-repeat: no-repeat;
   background-position: center;
@@ -1060,7 +1060,7 @@ section {
   display: none;
 }
 .resent_posts .swiper-button-prev {
-  background: url("/img/next.png");
+  background: url("img/next.png");
   background-repeat: no-repeat;
   background-size: 100% 100%;
   background-position: center;
@@ -1071,7 +1071,7 @@ section {
   position: static;
 }
 .resent_posts .swiper-button-next {
-  background: url("/img/next.png");
+  background: url("img/next.png");
   background-repeat: no-repeat;
   background-size: 100% 100%;
   background-position: center;
@@ -1248,7 +1248,7 @@ section {
   }
 }
 .parthners {
-  background: url("/img/background.png");
+  background: url("img/background.png");
   background-size: cover;
   background-repeat: no-repeat;
   padding: 0;
@@ -1263,7 +1263,7 @@ section {
   display: none;
 }
 .parthners .swiper-button-prev {
-  background: url("/img/next.png");
+  background: url("img/next.png");
   background-repeat: no-repeat;
   background-size: 100% 100%;
   background-position: center;
@@ -1274,7 +1274,7 @@ section {
   position: static;
 }
 .parthners .swiper-button-next {
-  background: url("/img/next.png");
+  background: url("img/next.png");
   background-repeat: no-repeat;
   background-size: 100% 100%;
   background-position: center;
